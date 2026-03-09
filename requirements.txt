@@ -1,0 +1,11 @@
+python-dotenv==1.2.2
+SpeechRecognition==3.14.5
+PyAudio==0.2.14
+pygame==2.6.1
+edge-tts==7.2.7
+PyGetWindow==0.0.9
+google-genai==1.65.0
+psutil==6.1.1
+PyAutoGUI==0.9.54
+pycaw==20251023
+comtypes==1.4.15
